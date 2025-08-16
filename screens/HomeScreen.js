@@ -16,11 +16,9 @@ export default function HomeScreen({ navigation }) {
 }
 const style = StyleSheet.create({
   texto:{
-    flex: 1,
       textAlign: 'center',
       justifyContent: 'center',
       fontSize: 25,
-      borderRadius: 50
   },
   titulo:{
     fontSize: 40,

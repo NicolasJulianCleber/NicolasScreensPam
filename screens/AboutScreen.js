@@ -17,11 +17,9 @@ export default function AboutScreen({ navigation }) {
 }
 const style = StyleSheet.create({
     texto: {
-      flex: 1,
       textAlign: 'center',
       justifyContent: 'center',
       fontSize: 25,
-      borderRadius: 50
     },
     container: {
       flex: 1,
